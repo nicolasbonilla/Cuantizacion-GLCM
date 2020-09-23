@@ -1,6 +1,6 @@
-# MRI-ROI3D-Haralick
+# Image 3D - Haralick
 
-Is a python code for lesion MRI texture analysis
+Is a python code for image 3D texture analysis.
 
 ## Installation
 
