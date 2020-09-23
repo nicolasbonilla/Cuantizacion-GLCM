@@ -1,4 +1,4 @@
-# Image 3D - Haralick
+# Image 3D - Haralick in an amorphous region
 
 Is a python code for image 3D texture analysis.
 
