@@ -1,6 +1,6 @@
-# Foobar
+# MRI-ROI3D-Haralick
 
-Foobar is a Python library for dealing with word pluralization.
+Is a python code for lesion MRI texture analysis
 
 ## Installation
 
