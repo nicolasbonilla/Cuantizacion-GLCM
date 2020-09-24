@@ -18,6 +18,8 @@ Patient 7 - Lesion 7.<br /><br />
 
 <img src="Lesion7.png" width="30%" /> ![Hist-les](Histogram-Lesion7.png)<br /><br />
 
+Podemos ver que al rango de los valores de grises en las imagenes es muy diferente y se encuentran en diferentes esacalas uno es [25000 65000] y el otro [400 1600]
+
 ## Quantization
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
