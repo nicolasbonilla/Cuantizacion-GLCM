@@ -16,7 +16,7 @@ Patient 3 - Lesion 3.<br /><br />
 
 Patient 7 - Lesion 7.<br /><br />
 
-<img src="Lesion2.png" width="30%" /> ![Hist-les](Histogram-Lesion2.png)<br /><br />
+<img src="Lesion7.png" width="30%" /> ![Hist-les](Histogram-Lesion7.png)<br /><br />
 
 ## Installation
 
