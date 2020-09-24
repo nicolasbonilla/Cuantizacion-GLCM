@@ -1,6 +1,8 @@
 # Image 3D - Haralick in an amorphous region
 MRI - Brain pre-processed <br /><br />
-Voxel size:[1 1 1] = 1mm<sup>3
+Voxel size:[1mm 1mm 1mm]<br /><br />
+Voxel Volume: 1mm<sup>3 <br /><br />
+Channel one = scale[0 64000] data type: Float<br /><br /> 
 
 ![Brain](brain-preprocessed.png)<br /><br />
 
