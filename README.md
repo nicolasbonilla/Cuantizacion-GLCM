@@ -1,5 +1,5 @@
 # Image 3D - Haralick in an amorphous region
-MRI- Brain pre-rposcessed <br /><br />
+MRI - Brain pre-proscessed <br /><br />
 Is a python code for image 3D texture analysis.<br /><br />
 ![Brain](brain-preprocessed.png)
 ## Installation
