@@ -14,7 +14,7 @@ Is a python code for image 3D texture analysis.<br /><br /><br /><br />
 
 
 
-![lesion](lesion2.png) ![Hist-les](histogram-lesion2.png)<br /><br />
+![lesion](Lesion2.png) ![Hist-les](Histogram-Lesion2.png)<br /><br />
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
