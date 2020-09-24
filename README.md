@@ -2,7 +2,7 @@
 MRI - Brain pre-processed <br /><br />
 Voxel size:[1mm 1mm 1mm]<br /><br />
 Voxel Volume: 1mm<sup>3</sup> <br /><br />
-Channel one = scale[0 64000] data type: Float<br /><br /> 
+<b>Channel one:</b> scale[0 64000] data type: Float<br /><br /> 
 
 ![Brain](brain-preprocessed.png)<br /><br />
 
