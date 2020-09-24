@@ -18,7 +18,7 @@ Patient 7 - Lesion 7.<br /><br />
 
 <img src="Lesion7.png" width="30%" /> ![Hist-les](Histogram-Lesion7.png)<br /><br />
 
-## Installation
+## Quantization
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
