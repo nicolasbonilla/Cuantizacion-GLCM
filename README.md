@@ -1,7 +1,9 @@
 # Image 3D - Haralick in an amorphous region
 MRI - Brain pre-proscessed <br /><br />
-Is a python code for image 3D texture analysis.<br /><br />
-![Brain](brain-preprocessed.png)
+
+![Brain](brain-preprocessed.png)<br /><br />
+
+Is a python code for image 3D texture analysis.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
