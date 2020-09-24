@@ -9,7 +9,12 @@ MRI - Brain pre-processed <br /><br />
 
 ![Brain](brain-preprocessed.png) ![Hist](patient-7-t1.png)<br /><br />
 
-Is a python code for image 3D texture analysis.
+Is a python code for image 3D texture analysis.<br /><br /><br /><br />
+
+
+
+
+![lesion](lesion2.png) ![Hist-les](histogram-lesion2.png)<br /><br />
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
