@@ -12,6 +12,12 @@ MRI - Brain pre-processed <br /><br />
 Patient 3 - Lesion 3.<br /><br />
 
 <img src="Lesion2.png" width="30%" /> ![Hist-les](Histogram-Lesion2.png)<br /><br />
+
+
+Patient 7 - Lesion 7.<br /><br />
+
+<img src="Lesion2.png" width="30%" /> ![Hist-les](Histogram-Lesion2.png)<br /><br />
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
