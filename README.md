@@ -4,7 +4,7 @@ MRI - Brain pre-processed <br /><br />
 <b>Voxel Volume:</b> 1mm<sup>3</sup> <br /><br />
 <b>FLAIR:</b> scale[0 64000], <b>data type:</b> Float<br /><br /> 
 
-![Brain](brain-preprocessed.png)<br /><br />
+![Brain](brain-preprocessed.png) ![Hist](patient-2-t1-training.png)<br /><br />
 
 Is a python code for image 3D texture analysis.
 ## Installation
