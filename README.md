@@ -9,10 +9,7 @@ MRI - Brain pre-processed <br /><br />
 
 ![Brain](brain-preprocessed.png) ![Hist](patient-7-t1.png)<br /><br />
 
-Is a python code for image 3D texture analysis.<br /><br /><br /><br />
-
-
-
+Is a python code for image 3D texture analysis.<br /><br />
 
 <img src="Lesion2.png" width="40%" /> ![Hist-les](Histogram-Lesion2.png)<br /><br />
 ## Installation
