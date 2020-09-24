@@ -1,5 +1,5 @@
 # Image 3D - Haralick in an amorphous region
-MRI - Brain pre-proscessed <br /><br />
+MRI - Brain pre-processed <br /><br />
 
 ![Brain](brain-preprocessed.png)<br /><br />
 
