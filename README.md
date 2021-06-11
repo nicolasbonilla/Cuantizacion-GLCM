@@ -1,13 +1,3 @@
-# Image 3D - Haralick in an amorphous region
-
-## Quantization
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Texture analysis Haralick 3D
 
 ```python
